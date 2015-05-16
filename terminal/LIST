@@ -1,0 +1,6 @@
+CALCULATE.........LIB1              PRINT_DEC.........LIB1
+PRINT_HEX.........LIB1              SCAN_KEY..........LIB1
+
+
+LIB1              Offset: 00000010H  Code and data size: 12cH
+  CALCULATE         PRINT_DEC         PRINT_HEX         SCAN_KEY
